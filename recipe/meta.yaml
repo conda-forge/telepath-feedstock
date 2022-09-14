@@ -1,5 +1,5 @@
 {% set name = "telepath" %}
-{% set version = "0.2" %}
+{% set version = "0.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/telepath-{{ version }}.tar.gz
-  sha256: ef4cf2a45ed1908c58639c346756955f8a73ae79002a8116d596b3fd702bf84c
+  sha256: 54f4b57232461bc67c54f63f437cb6d26843c189bae6b7ba8e4457f98d78e515
 
 build:
   number: 0
