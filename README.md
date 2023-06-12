@@ -1,11 +1,11 @@
-About telepath
-==============
+About telepath-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/telepath-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/wagtail/telepath
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/telepath-feedstock/blob/main/LICENSE.txt)
 
 Summary: A library for exchanging data between Python and JavaScript
 
